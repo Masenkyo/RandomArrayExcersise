@@ -17,7 +17,7 @@ namespace RandomArrayExersise
 
             Console.WriteLine("These are our best game candidates:");
             //print alle candidates uit met console.writeline
-
+            ????
 
             Console.WriteLine("The winner is:");
 

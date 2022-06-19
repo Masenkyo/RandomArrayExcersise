@@ -30,6 +30,8 @@ namespace RandomArrayExersise
             string winner = winningGame.name;
 
             Console.WriteLine(winner);
+
+            Console.ReadLine();
         }
 
     }
